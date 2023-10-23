@@ -1,6 +1,6 @@
 ## Jogo da Forca
 
-'''console
+```console
 # Execute o main.py
 $ python3 main.py
-'''
+```
